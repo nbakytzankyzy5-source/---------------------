@@ -31,5 +31,5 @@ console.log(xx!==yy);
 //6
 let x1=10;
 let y1=20
-console.log(x1/2);
-console.log(y1>10 || y1<10);
+console.log(x1/2 || x1/3 && x1%6!=0);
+console.log(y1>10 || y1<5);
